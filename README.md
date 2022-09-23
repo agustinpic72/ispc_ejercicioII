@@ -4,7 +4,7 @@ Para ello, primero debemos movernos al directorio donde tenemos nuestro archivo 
 ```bash
 python or python3
 ```
-y luego:
+y luego importamos todas las funciones con:
 ```python
 from ejercicios import *
 ```
