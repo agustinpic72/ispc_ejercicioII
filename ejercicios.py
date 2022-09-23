@@ -125,3 +125,4 @@ def valores():
 def impares():
     numeros = [x for x in range(0,26) if x % 2 != 0]
     return sum(numeros)
+print(simula_descuento())
